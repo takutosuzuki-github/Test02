@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="">52b384301b129010c03399c01a4bcbc2</role>
+        <role display_value="sn_dd_0726_servicecatalog" name="sn_dd_0726_servicecatalog">52b384301b129010c03399c01a4bcbc2</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>takuto.suzuki@snc</sys_created_by>
         <sys_created_on>2020-07-26 11:42:35</sys_created_on>
