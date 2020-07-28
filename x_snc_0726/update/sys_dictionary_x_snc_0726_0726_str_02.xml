@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-26 10:37:09</sys_created_on>
-        <sys_id>bbb4ff241bde5010c03399c01a4bcb05</sys_id>
+        <sys_id>1beb96d91b1a1410140b54242a4bcb70</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Str 02</sys_name>
         <sys_package display_value="0726" source="x_snc_0726">9564bb241bde5010c03399c01a4bcb27</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="0726">9564bb241bde5010c03399c01a4bcb27</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_0726_0726_str_02</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-26 10:37:09</sys_updated_on>
+        <sys_updated_on>2020-07-28 12:04:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
